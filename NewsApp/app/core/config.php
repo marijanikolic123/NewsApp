@@ -20,7 +20,7 @@ define('ASSETS', str_replace("app/core", "public/assets", $path));
 
 define('DEBUG', true);
 
-define('BASE_URL', 'http://localhost/NewsAppLV/NewsApp/public/');
+define('BASE_URL', 'http://localhost/NewsApp/public/');
 
 if (DEBUG)
 {
